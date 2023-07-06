@@ -8,7 +8,7 @@
 
 <br/>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khadija19" alt="Khadija"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=19khadij" alt="Khadija"/> </p>
 
 - 🌱 I’m currently learning Cyber Security.
 
@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/khadija19" target="_blank">
+<a href="https://github.com/19khadij" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/khadijaBinteMunawar" target="_blank">
@@ -85,13 +85,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=khadija19&theme=algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=19khadij&theme=algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
 
 
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija19&theme=algolia&line_height=40&hide=css"/></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19khadij&theme=algolia&line_height=40&hide=css"/></p> </div>
 
 <br/> 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadija19&theme=algolia" alt="rameeshakhan" /></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19khadij&theme=algolia" alt="rameeshakhan" /></p> </div>
