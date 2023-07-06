@@ -85,13 +85,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=19khadij&theme=algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=19khadij&theme=swift&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
 
 
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19khadij&theme=algolia&line_height=40&hide=css"/></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19khadij&theme=swift&line_height=40&hide=css"/></p> </div>
 
 <br/> 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19khadij&theme=algolia" alt="rameeshakhan" /></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19khadij&theme=swift" alt="rameeshakhan" /></p> </div>
