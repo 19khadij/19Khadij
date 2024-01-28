@@ -10,7 +10,7 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=19khadij" alt="Khadija"/> </p>
 
-- 🌱 I’m currently learning Cyber Security.
+- 🌱 I’m currently learning Artificial Intelligence.
 
 - ❓ Ask me and tell me about Machine Learning, Artificial Intelligence, Cyber Security and related technologies.
   
